@@ -1,4 +1,4 @@
-```markdown
+
 # Quiz Application
 
 A Java Swing-based interactive quiz application featuring multiple-choice questions, user authentication, and performance analytics.
