@@ -1,5 +1,3 @@
-Here's a concise README.md for quick setup and reference:
-
 ```markdown
 # Quiz Application
 
