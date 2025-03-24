@@ -1,0 +1,4 @@
+Setting up the basic GUI structure
+Creating the user authentication system
+Implementing the quiz logic
+Designing the database structure for questions2
