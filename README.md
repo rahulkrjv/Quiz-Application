@@ -71,7 +71,7 @@ src/
    - View progress charts
    - Compare scores
 
-## Google Auth Setup
+## [Google Auth Setup](SetupGoogleAuth.md)
 
 1. Get credentials from [Google Cloud Console](https://console.cloud.google.com/)
 2. Add to `resources/google_oauth.properties`:
@@ -90,5 +90,5 @@ google.redirect.uri=http://localhost:8888/callback
 - Email: support@quizapp.com
 
 ## License
-MIT License
+[MIT License](LICENSE)
 ```
